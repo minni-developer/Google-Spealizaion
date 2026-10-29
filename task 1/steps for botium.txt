@@ -1,0 +1,78 @@
+Goals:
+
+Improve Botium Toys’ current security posture by aligning to industry best practices (e.g., adhere to the NIST CSF, implement concept of least permissions)
+
+Provide mitigation recommendations (i.e., controls, policies, documentation), based on current risks
+
+Identify compliance regulations Botium Toys must adhere to, primarily based on where we conduct business and how we accept payments
+
+To review the full report, read the Botium Toys: Audit scope and goals document
+
+Risks:
+
+Inadequate management of assets
+
+Proper controls are not in place
+
+May not be compliant with U.S. and international regulations and guidelines
+
+Current risk score is 8/10 (high), due to a lack of controls and adherence to compliance regulations and standards
+
+To review the complete list of assets and risks, read the Botium Toys: Risk assessment document 
+
+
+After you review the audit scope, goals, and risk assessment, consider the following questions:
+
+What are the biggest risks to the organization?
+
+Which controls are most essential to implement immediately versus in the future?
+
+Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.?
+
+Then, move on to the next step. 
+
+
+
+Conduct the next step of the security audit by completing the controls assessment. 
+
+To complete the controls assessment, open the supporting materials. Then:
+
+Review the list of Botium Toys’ assets
+
+Review each control name
+
+Review the control types and explanation 
+
+Mark an X next to each control that needs to be implemented
+
+Note levels of priority (high, medium, and/or low; NA if not applicable)
+
+Be sure to save a copy of your completed controls assessment for the following activity
+
+
+
+Be sure to address the following elements in your completed activity:
+
+Controls assessment
+
+All listed assets are accounted for in the controls selected
+
+Appropriate administrative, technical, and physical controls are selected (marked with an X)
+
+The priority level for each control selected is noted, based on the need for immediate or future implementation
+
+Compliance checklist
+
+The compliance regulations and standards that Botium Toys needs to adhere to are selected (i.e., related to conducting business in the E.U., accepting online payments, user permission policies)
+
+The need for each regulation and standard selected is explained
+
+
+
+
+There are a total of 5 points possible for this activity and each statement is worth 1 point. The items correspond to each step you completed for the activity. 
+
+To complete the self-assessment, first open your controls assessment and compliance checklist. Then respond yes or no to each statement. 
+
+When you complete and submit your responses, you will receive a percentage score. This score will help you confirm whether you completed the required steps of the activity. The recommended passing grade for this project is at least 80% (or 4/5 points). If you want to increase your score, you can revise your project and then resubmit your responses to reflect any changes you made. Try to achieve at least 4 points before continuing on to the next course item.
+
